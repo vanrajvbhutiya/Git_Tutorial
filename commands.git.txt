@@ -1,0 +1,8 @@
+git init
+git status 
+git add .
+git commit -m "commited"
+git remote add project URL
+git push -u main
+
+git log "Show All Commits"
