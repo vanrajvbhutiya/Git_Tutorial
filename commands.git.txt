@@ -6,3 +6,13 @@ git remote add project URL
 git push -u main
 
 git log "Show All Commits"
+
+
+reset revert commit 
+git reset --hard logId(cceb3322329ef8ca6caca0a9f7cfc1b4b442358a)
+
+
+Git Remote.
+URL:https://github.com/vanrajvbhutiya/Git_Tutorial.git
+
+git remote add origin https://github.com/vanrajvbhutiya/Git_Tutorial.git
